@@ -1,0 +1,127 @@
+server_name_begin	id=0	name={[Асгард [Открый Бета Тест]]}	server_name_end
+server_name_begin	id=1	name={[Асгард (MAIN DDOS-PROTECTED)]}	server_name_end
+server_name_begin	id=2	name={[Асгард (RU PROXY)]}	server_name_end
+server_name_begin	id=3	name={[Асгард (EU PROXY)]}	server_name_end
+server_name_begin	id=4	name={[Асгард (USA PROXY)]}	server_name_end
+server_name_begin	id=5	name={[Асгард (LATIN PROXY)]}	server_name_end
+server_name_begin	id=6	name={[Хельхейм [Открытый Бета Тест]]}	server_name_end
+server_name_begin	id=7	name={[Хельхейм (MAIN DDOS-PROTECTED)]}	server_name_end
+server_name_begin	id=8	name={[Хельхейм (RU PROXY)]}	server_name_end
+server_name_begin	id=9	name={[Хельхейм (EU PROXY)]}	server_name_end
+server_name_begin	id=10	name={[Хельхейм (USA PROXY)]}	server_name_end
+server_name_begin	id=11	name={[Хельхейм (LATIN PROXY)]}	server_name_end
+server_name_begin	id=12	name={[Мидгард [Открый Бета Тест]]}	server_name_end
+server_name_begin	id=13	name={[Мидгард (MAIN DDOS-PROTECTED)]}	server_name_end
+server_name_begin	id=14	name={[Мидгард (RU PROXY)]}	server_name_end
+server_name_begin	id=15	name={[Мидгард (EU PROXY)]}	server_name_end
+server_name_begin	id=16	name={[Мидгард (USA PROXY)]}	server_name_end
+server_name_begin	id=17	name={[Мидгард (LATIN PROXY)]}	server_name_end
+server_name_begin	id=18	name={[Shikken]}	server_name_end
+server_name_begin	id=19	name={[Scryde]}	server_name_end
+server_name_begin	id=20	name={[Frikios]}	server_name_end
+server_name_begin	id=21	name={[Atlant]}	server_name_end
+server_name_begin	id=22	name={[Shakdun]}	server_name_end
+server_name_begin	id=23	name={[Tarziph]}	server_name_end
+server_name_begin	id=24	name={[Ramona]}	server_name_end
+server_name_begin	id=25	name={[Esenn]}	server_name_end
+server_name_begin	id=26	name={[Elcardia + Cadmus]}	server_name_end
+server_name_begin	id=27	name={[Yiana]}	server_name_end
+server_name_begin	id=28	name={[Seresin]}	server_name_end
+server_name_begin	id=29	name={[Tarkai]}	server_name_end
+server_name_begin	id=30	name={[Khadia]}	server_name_end
+server_name_begin	id=31	name={[Roien]}	server_name_end
+server_name_begin	id=32	name={[Kallint (Non-PvP)]}	server_name_end
+server_name_begin	id=33	name={[Baium]}	server_name_end
+server_name_begin	id=34	name={[Kamael]}	server_name_end
+server_name_begin	id=35	name={[Beleth]}	server_name_end
+server_name_begin	id=36	name={[Anakim]}	server_name_end
+server_name_begin	id=37	name={[Lilith]}	server_name_end
+server_name_begin	id=38	name={[Thifiel]}	server_name_end
+server_name_begin	id=39	name={[Lithra]}	server_name_end
+server_name_begin	id=40	name={[Lockirin]}	server_name_end
+server_name_begin	id=41	name={[Kakai]}	server_name_end
+server_name_begin	id=42	name={[Cadmus (+Kain)]}	server_name_end
+server_name_begin	id=43	name={[Athebaldt]}	server_name_end
+server_name_begin	id=44	name={[Blackbird + Ramsheart]}	server_name_end
+server_name_begin	id=45	name={[Ramsheart]}	server_name_end
+server_name_begin	id=46	name={[Athebaldt + Esthus]}	server_name_end
+server_name_begin	id=47	name={[Vasper]}	server_name_end
+server_name_begin	id=48	name={[Lancer]}	server_name_end
+server_name_begin	id=49	name={[Ashton]}	server_name_end
+server_name_begin	id=50	name={[Waytrel]}	server_name_end
+server_name_begin	id=51	name={[Waltner]}	server_name_end
+server_name_begin	id=52	name={[Tahnford]}	server_name_end
+server_name_begin	id=53	name={[PTS2]}	server_name_end
+server_name_begin	id=54	name={[Dewell]}	server_name_end
+server_name_begin	id=55	name={[Rodemaye]}	server_name_end
+server_name_begin	id=56	name={[Ken Rauhel]}	server_name_end
+server_name_begin	id=57	name={[Ken Abigail]}	server_name_end
+server_name_begin	id=58	name={[Ken Orwen]}	server_name_end
+server_name_begin	id=59	name={[Van Holter]}	server_name_end
+server_name_begin	id=60	name={[Desperion]}	server_name_end
+server_name_begin	id=61	name={[Einhovant]}	server_name_end
+server_name_begin	id=62	name={[Schuneimann]}	server_name_end
+server_name_begin	id=63	name={[Faris]}	server_name_end
+server_name_begin	id=64	name={[Tor]}	server_name_end
+server_name_begin	id=65	name={[Carneiar]}	server_name_end
+server_name_begin	id=66	name={[Dwyllios]}	server_name_end
+server_name_begin	id=67	name={[Baium]}	server_name_end
+server_name_begin	id=68	name={[Hallate]}	server_name_end
+server_name_begin	id=69	name={[Zaken]}	server_name_end
+server_name_begin	id=70	name={[Core]}	server_name_end
+server_name_begin	id=71	name={[Ember]}	server_name_end
+server_name_begin	id=72	name={[Skelth]}	server_name_end
+server_name_begin	id=73	name={[Sirius]}	server_name_end
+server_name_begin	id=74	name={[Vortex]}	server_name_end
+server_name_begin	id=75	name={[Titan]}	server_name_end
+server_name_begin	id=76	name={[Indigo]}	server_name_end
+server_name_begin	id=77	name={[Lyra]}	server_name_end
+server_name_begin	id=78	name={[Olympia]}	server_name_end
+server_name_begin	id=79	name={[Orion]}	server_name_end
+server_name_begin	id=80	name={[Aquarius]}	server_name_end
+server_name_begin	id=81	name={[Libra]}	server_name_end
+server_name_begin	id=82	name={[Taurus]}	server_name_end
+server_name_begin	id=83	name={[Aries]}	server_name_end
+server_name_begin	id=84	name={[Cerberus]}	server_name_end
+server_name_begin	id=85	name={[Demos]}	server_name_end
+server_name_begin	id=86	name={[Kasius]}	server_name_end
+server_name_begin	id=87	name={[Osiris]}	server_name_end
+server_name_begin	id=88	name={[Thanatos]}	server_name_end
+server_name_begin	id=89	name={[Paagrio]}	server_name_end
+server_name_begin	id=90	name={[Einhasad]}	server_name_end
+server_name_begin	id=91	name={[Gran Kain]}	server_name_end
+server_name_begin	id=92	name={[Zalaran]}	server_name_end
+server_name_begin	id=93	name={[Shillien]}	server_name_end
+server_name_begin	id=94	name={[Xander]}	server_name_end
+server_name_begin	id=95	name={[Sayha]}	server_name_end
+server_name_begin	id=96	name={[Maphr]}	server_name_end
+server_name_begin	id=97	name={[Eva]}	server_name_end
+server_name_begin	id=98	name={[Server #99]}	server_name_end
+server_name_begin	id=99	name={[Server #100]}	server_name_end
+server_name_begin	id=100	name={[Test Server №1]}	server_name_end
+server_name_begin	id=101	name={[Test Server №2]}	server_name_end
+server_name_begin	id=102	name={[Test Server №3]}	server_name_end
+server_name_begin	id=103	name={[Test Server №4]}	server_name_end
+server_name_begin	id=104	name={[Test Server №5]}	server_name_end
+server_name_begin	id=105	name={[Test Classic №1]}	server_name_end
+server_name_begin	id=106	name={[Test Classic №2]}	server_name_end
+server_name_begin	id=107	name={[Test Classic №3]}	server_name_end
+server_name_begin	id=108	name={[Test Classic №4]}	server_name_end
+server_name_begin	id=109	name={[Test Classic №5]}	server_name_end
+server_name_begin	id=110	name={[Server #111]}	server_name_end
+server_name_begin	id=111	name={[Server #112]}	server_name_end
+server_name_begin	id=112	name={[Server #113]}	server_name_end
+server_name_begin	id=113	name={[Server #114]}	server_name_end
+server_name_begin	id=114	name={[Server #115]}	server_name_end
+server_name_begin	id=115	name={[Server #116]}	server_name_end
+server_name_begin	id=116	name={[Server #117]}	server_name_end
+server_name_begin	id=117	name={[Server #118]}	server_name_end
+server_name_begin	id=118	name={[Server #119]}	server_name_end
+server_name_begin	id=119	name={[Server #120]}	server_name_end
+server_name_begin	id=120	name={[Server #121]}	server_name_end
+server_name_begin	id=121	name={[Server #122]}	server_name_end
+server_name_begin	id=122	name={[Server #123]}	server_name_end
+server_name_begin	id=123	name={[Server #124]}	server_name_end
+server_name_begin	id=124	name={[PTS1]}	server_name_end
+server_name_begin	id=125	name={[Test Server(Salva)]}	server_name_end
+server_name_begin	id=126	name={[Broadcasting]}	server_name_end
