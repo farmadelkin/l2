@@ -1,21 +1,21 @@
-server_name_begin	id=0	name={[Асгард [Открый Бета Тест]]}	server_name_end
-server_name_begin	id=1	name={[Асгард (MAIN DDOS-PROTECTED)]}	server_name_end
-server_name_begin	id=2	name={[Асгард (RU PROXY)]}	server_name_end
-server_name_begin	id=3	name={[Асгард (EU PROXY)]}	server_name_end
-server_name_begin	id=4	name={[Асгард (USA PROXY)]}	server_name_end
-server_name_begin	id=5	name={[Асгард (LATIN PROXY)]}	server_name_end
-server_name_begin	id=6	name={[Хельхейм [Открытый Бета Тест]]}	server_name_end
-server_name_begin	id=7	name={[Хельхейм (MAIN DDOS-PROTECTED)]}	server_name_end
-server_name_begin	id=8	name={[Хельхейм (RU PROXY)]}	server_name_end
-server_name_begin	id=9	name={[Хельхейм (EU PROXY)]}	server_name_end
-server_name_begin	id=10	name={[Хельхейм (USA PROXY)]}	server_name_end
-server_name_begin	id=11	name={[Хельхейм (LATIN PROXY)]}	server_name_end
-server_name_begin	id=12	name={[Мидгард [Открый Бета Тест]]}	server_name_end
-server_name_begin	id=13	name={[Мидгард (MAIN DDOS-PROTECTED)]}	server_name_end
-server_name_begin	id=14	name={[Мидгард (RU PROXY)]}	server_name_end
-server_name_begin	id=15	name={[Мидгард (EU PROXY)]}	server_name_end
-server_name_begin	id=16	name={[Мидгард (USA PROXY)]}	server_name_end
-server_name_begin	id=17	name={[Мидгард (LATIN PROXY)]}	server_name_end
+server_name_begin	id=0	name={[Classic x10]}	server_name_end
+server_name_begin	id=1	name={[Classic x10]}	server_name_end
+server_name_begin	id=2	name={[Classic x10]}	server_name_end
+server_name_begin	id=3	name={[Classic x10]}	server_name_end
+server_name_begin	id=4	name={[Classic x10]}	server_name_end
+server_name_begin	id=5	name={[Classic x10]}	server_name_end
+server_name_begin	id=6	name={[Classic x10]}	server_name_end
+server_name_begin	id=7	name={[Classic x10]}	server_name_end
+server_name_begin	id=8	name={[Classic x10]}	server_name_end
+server_name_begin	id=9	name={[Classic x10]}	server_name_end
+server_name_begin	id=10	name={[Classic x10]}	server_name_end
+server_name_begin	id=11	name={[Classic x10]}	server_name_end
+server_name_begin	id=12	name={[Classic x10]}server_name_end
+server_name_begin	id=13	name={[Classic x10 (MAIN DDOS-PROTECTED)]}	server_name_end
+server_name_begin	id=14	name={[Classic x10 (RU PROXY)]}	server_name_end
+server_name_begin	id=15	name={[Classic x10 (EU PROXY)]}	server_name_end
+server_name_begin	id=16	name={[Classic x10 (USA PROXY)]}	server_name_end
+server_name_begin	id=17	name={[Classic x10 (UA PROXY)]}	server_name_end
 server_name_begin	id=18	name={[Shikken]}	server_name_end
 server_name_begin	id=19	name={[Scryde]}	server_name_end
 server_name_begin	id=20	name={[Frikios]}	server_name_end
